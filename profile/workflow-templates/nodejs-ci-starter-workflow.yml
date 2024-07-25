@@ -1,0 +1,11 @@
+name: Org NodeJS CI
+
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
+
+jobs:
+  build:
+  runs-on: ubuntu-latest

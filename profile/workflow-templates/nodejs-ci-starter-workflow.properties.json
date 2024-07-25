@@ -1,0 +1,9 @@
+{
+    "name": "Org Workflow",
+    "description": "Org Workflow Template",
+    "iconName": "my-icon",
+    "categories": [
+        "NPM Config"
+    ]
+
+}
